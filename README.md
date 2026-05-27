@@ -28,11 +28,15 @@ Investigating adversarial attacks on ML-based perception systems
 in autonomous vehicles, with access to Tesla Model S hardware 
 for real-world experimentation.
 
-###  Projects
-- **Space Pirates** – C++ space game built with OpenGL, 
-  Entity-Component System architecture, procedural generation
-- **RTOS in Autonomous Vehicles** – Research paper on 
-  real-time OS requirements for self-driving car safety systems
+### 📂 Projects
+- **[Space Pirates](https://github.com/theinsurgentarchive/Space-Pirates)** 
+  – C++ space game (98% C++) built with OpenGL and Entity-Component 
+  System architecture. Implemented dynamic audio system, planet-specific 
+  music, and space soundscape. 827 commits, team of 5.
+  
+- **[RTOS in Autonomous Vehicles](https://github.com/mikeleon001/rtos-autonomous-vehicles)** 
+  – Research paper on real-time OS requirements for safe autonomous 
+  vehicle operation. Covers QNX, VxWorks, SAFERTOS, ISO 26262.
 
 ###  Background
 U.S. Army Veteran | First-generation college student | 
