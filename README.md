@@ -9,7 +9,7 @@ systems in autonomous vehicles.
 ###  Education
 - **MS Computer Science** - Cal Poly Pomona (Expected 2027)
 - **Post-Baccalaureate CS** - CSU Bakersfield, GPA: 3.91
-- **BS International Economic Relations** – Academy of 
+- **BS International Economic Relations** - Academy of 
   Economic Studies of Moldova
 
 ###  Research Interests
