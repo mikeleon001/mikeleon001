@@ -30,12 +30,12 @@ for real-world experimentation.
 
 ### 📂 Projects
 - **[Space Pirates](https://github.com/theinsurgentarchive/Space-Pirates)** 
-  – C++ space game (98% C++) built with OpenGL and Entity-Component 
+  - C++ space game (98% C++) built with OpenGL and Entity-Component 
   System architecture. Implemented dynamic audio system, planet-specific 
   music, and space soundscape. 827 commits, team of 5.
   
 - **[RTOS in Autonomous Vehicles](https://github.com/mikeleon001/rtos-autonomous-vehicles)** 
-  – Research paper on real-time OS requirements for safe autonomous 
+  - Research paper on real-time OS requirements for safe autonomous 
   vehicle operation. Covers QNX, VxWorks, SAFERTOS, ISO 26262.
 
 ###  Background
